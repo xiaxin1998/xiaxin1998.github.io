@@ -10,7 +10,7 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background: linear-gradient(to right, #16a085, #f4d03f);
 
   &__inner-wrap {
     @include container;
