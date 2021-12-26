@@ -16,7 +16,8 @@ Hi! This is Xin Xia, a third-year Ph.D. student of Computer Science at The Unive
 - [02/12/2020] One paper on hypergraph and session-based recommendation is accepted by AAAI'21.  
 
 ## Academic Services
-+ <b>Reviewer</b>: TOIS, TKDE, TIST, TNNLS
++ <b>External Reviewer</b>: ICDE'22, AAAI'22, DASFAA'22, SIGIR'21, etc
++ <b>Journal Reviewer</b>: TOIS, TKDE, TIST, TNNLS, etc
 
 ## Teaching
 + INFS7450 at The University of Queensland - Social Media Analytics. (Semester 1, 2021, Tutor)
