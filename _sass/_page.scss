@@ -17,6 +17,7 @@
 }
 
 .page {
+    padding-right: 1em;
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
@@ -25,7 +26,7 @@
 
   .page__inner-wrap {
     @include full();
-
+    max-width: 84em;
     .page__content,
     .page__meta,
     .page__share {
@@ -38,7 +39,7 @@
   margin-top: 0;
   line-height: 1;
   font-family: $helvetica;
-  color: #51247a;
+  color: #3F3F3F;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -51,11 +52,10 @@
 }
 
 .page__content {
-  text-align: justify;
   h2,h3,h4,h5 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
-    color: #51247a;
+    color: #3F3F3F;
   }
 
   p, li, dl {
@@ -64,6 +64,7 @@
 
   /* paragraph indents */
   p {
+    text-align: justify;
     margin: 0 0 $indent-var;
     /* sibling indentation*/
     @if $paragraph-indent == true {
@@ -75,7 +76,8 @@
   }
 
   a {
-    text-decoration: #952a8b;
+    color: #ff5050;
+    text-decoration: #ff5050;
 
     &:hover {
       text-decoration: underline;
