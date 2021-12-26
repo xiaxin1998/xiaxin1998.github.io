@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junliang's Homepage"
+title                    : "Xin Xia's Homepage"
 title_separator          : "-"
 name                     : &name "Xin Xia"
 description              : &description ""
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xia Xin (夏新)"
-  avatar           : "xinxia.jpg"
+  avatar           : "xiaxin.jpg"
   bio              : ""
   location         : "Brisbane, Australia"
   employer         :
