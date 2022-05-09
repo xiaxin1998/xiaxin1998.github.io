@@ -7,7 +7,7 @@ author_profile: true
 
 <h3>Research Papers</h3>
 
-+ [On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation](https://dl.acm.org/doi/abs/10.1145/3459637.3482388). <i><b>SIGIR'22</b></i> [[code]]() <br>
++ [On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation](https://arxiv.org/pdf/2204.11091.pdf). <i><b>SIGIR'22</b></i> [[code]](https://github.com/xiaxin1998/OD-Rec) <br>
 <u>Xin Xia</u>, Hongzhi Yin, Junliang Yu, Guandong Xu, Quoc Viet Hung Nguyen<br>
 + [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679). <i><b>SIGIR'22</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/SimGCL.py) <br>
 Junliang Yu, Hongzhi Yin, <u>Xin Xia</u>, Lizhen Cui, Quoc Viet Hung Nguyen<br>
