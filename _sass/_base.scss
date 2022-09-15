@@ -18,6 +18,8 @@ table {
   }
   td {
     font-size: 1rem;
+    padding-top: .2rem;
+    padding-bottom: .2rem;
   }
 }
 
@@ -33,7 +35,7 @@ a, table.table a {
 }
 
 figure, img {
-  max-width: 90vw;
+  max-width: 70vw;
 }
 
 blockquote {
@@ -93,7 +95,7 @@ blockquote {
 // Profile
 
 .profile {
-  margin-left: 1rem;
+  margin-left: 1.5rem;
   width: 100%;
 
   .address {
@@ -109,7 +111,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 20%;
     .address {
       p { display: block; }
     }
@@ -246,9 +248,9 @@ blockquote {
 // Social (bottom)
 
 .social {
-  text-align: center;
+  text-align: left;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.5rem;
     a {
       i::before {
         color: var(--global-text-color);

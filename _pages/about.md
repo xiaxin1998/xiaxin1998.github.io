@@ -1,25 +1,31 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Email: <a href="mailto:jl.yu@uq.edu.au">jl dot yu at uq.edu.au</a> 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, this is Xin Xia (夏新). I am a third-year PhD student of [Data Science](https://itee.uq.edu.au/data-science) at [The University of Queensland](https://www.uq.edu.au/). I am jointly supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home) and [Dr. Miao Xu](https://researchers.uq.edu.au/researcher/26509). I completed my Bachelor degree at Jilin University. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Research Interests
++ recommender systems
++ sequence modeling
++ self-supervised learning
++ on-device learning
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Academic Services
++ PC Member: AAAI' 23
++ Journal Reviewer: TKDE, TOIS, TNNLS, etc.
+
+<br>
+<hr>
