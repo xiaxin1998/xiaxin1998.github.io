@@ -138,6 +138,7 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  padding: 0.25rem 1rem;
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
@@ -188,12 +189,12 @@ blockquote {
     font-size: 1.7rem;
     a {
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-theme-color);
         transition-property: all 0.2s ease-in-out;
       }
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          color: var(--global-text-color);
         }
       }
     }
@@ -250,15 +251,15 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     a {
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-theme-color);
         transition-property: all 0.2s ease-in-out;
       }
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          color: var(--global-text-color);
         }
       }
     }
@@ -291,7 +292,7 @@ footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
   padding-bottom: 40px;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 // CV
@@ -569,7 +570,7 @@ footer.sticky-bottom {
           margin: 10px;
         }
         pre {
-          font-size: 1em;
+          font-size: 0.9em;
           line-height: 1.4em;
           padding: 10px;
         }
