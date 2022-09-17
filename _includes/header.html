@@ -4,6 +4,11 @@
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
+                      <!-- uq logo -->
+              <a  href="https://www.uq.edu.au/">
+                  <img><img src="https://coder-yu.github.io/assets/img/uq.png" alt="uq" width="120"></img>
+                </a>
+         <!--
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
             {%- if site.title == "blank" -%}
@@ -20,8 +25,8 @@
               {{- site.title -}}
             {%- endif -%}
           </a>
-
           {% endif %}
+          -->
           <!-- Navbar Toggle -->
           <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>
@@ -31,10 +36,6 @@
           </button>
 
           <div class="collapse navbar-collapse text-right" id="navbarNav">
-            <!-- uq logo -->
-              <a  href="https://www.uq.edu.au/">
-                  <img><img src="https://xiaxin1998.github.io/assets/img/uq.png" alt="uq" width="120"></img>
-                </a>
             <ul class="navbar-nav ml-auto flex-nowrap">
 
               {%- for page in site.pages -%}
