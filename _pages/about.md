@@ -24,7 +24,7 @@ Research Interests
 + on-device learning
 
 Academic Services
-+ PC Member: AAAI' 23
++ PC Member: AAAI'23, CIKM'23, AAAI'24
 + Journal Reviewer: TKDE, TOIS, TNNLS, etc.
 
 <br>
